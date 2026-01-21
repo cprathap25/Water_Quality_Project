@@ -1,0 +1,4 @@
+FEATURES = [
+    'temperature', 'pH', 'dissolved_oxygen', 'conductivity',
+    'turbidity', 'bod', 'nitrate', 'fecal_coliform'
+]
